@@ -1,0 +1,403 @@
+*{
+    box-sizing: border-box;
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-family: Poppins;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #223232;
+    font-size: 18px;
+}
+
+button{
+    background-color: #706FE5 !important;
+    border: none !important;
+}
+.search-input{
+    border: none;
+    background-color: transparent;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+text-align: left;
+color: rgba(115, 119, 145, 1);
+width: 120px;
+height: 27px;
+gap: 0px;
+opacity: 0px;
+
+
+
+
+
+}
+.search-icon{
+    height: 32px;
+    width: 32px;
+    background-color: transparent;
+gap: 0px;
+opacity: 0px;
+
+
+}
+
+.input-con{
+    background: rgba(249, 250, 251, 1);
+    border-radius: 16px;
+    padding: 32px;
+    gap:8px;
+    Width: 454.86px;
+    Height:60.61px;
+    opacity: 0px;
+
+}
+
+.header{
+width: 393px;
+height: 50px;
+top: 173px;
+left: 79px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+/* font-size: 34px; */
+font-weight: 600;
+line-height: 47.6px;
+text-align: left;
+color:  rgba(21, 29, 72, 1);
+
+
+}
+
+.search-btn{
+    width: 174.57px;
+height: 55.56px;
+top: -1101.19px;
+left: 225.81px;
+padding: 10px 40px 10px 40px;
+gap: 10px;
+border-radius: 12px;
+opacity: 0px;
+color: #ffffff;
+background: rgba(112, 111, 229, 1);
+
+}
+
+.reference-con{
+width: 1200px;
+top: 352px;
+gap: 0px;
+opacity: 0px;
+/* background-color: antiquewhite; */
+position: absolute;
+padding-bottom: 100px;
+}
+
+.header-con{
+    width: 1440px;
+height: 80.01px;
+top: 17px;
+gap: 0px;
+position: relative;
+opacity: 0px;
+}
+.amount-card{
+    width: 270px;
+height: 120px;
+top: -0.2px;
+left: 15px;
+padding: 27px 34.86px 27.8px 30px;
+gap: 0px;
+border-radius: 6px;
+opacity: 0px;
+position: relative;
+background: linear-gradient(322.23deg, #4776E6 10%, #8E54E9 100%);
+
+}
+
+.card-img-con{
+    width: 62.07px;
+    height: 60px;
+    top: 32.2px;
+    left: 30px;
+    gap: 0px;
+    border-radius: 30px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;    
+    border: 1px solid rgba(255, 255, 255, 1)
+}
+
+.para{
+    width: 89.15px;
+height: 32px;
+top: -20px;
+gap: 0px;
+opacity: 0px;
+font-family: Yantramanav;
+font-size: 22px;
+font-weight: 500;
+line-height: 32px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+position: absolute;
+}
+
+.price{
+    width: 125.53px;
+height: 27px;
+top: 15px;
+gap: 0px;
+opacity: 0px;
+font-family: Yantramanav;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+position: absolute;
+}
+.card-content{
+width: 125.14px;
+height: 65px;
+top: 20px;
+left: 100px;
+padding: 0px 0px 4px 0px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+.referral-info{
+width: 1170px;
+height: 136px;
+gap: 0px;
+border-radius: 5px;
+margin-left: 30px;
+border: 2px ;
+opacity: 0px;
+border: 2px dotted rgba(136, 136, 136, 1);
+background-color: #e4e4ed;
+}
+
+.info-1{
+gap: 0px;
+opacity: 0px;
+position: relative;
+font-family: Yantramanav;
+font-size: 18px;
+font-weight: 500;
+line-height: 27px;
+text-align: center;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.info-head{
+width: 200px;
+height: 27px;
+gap: 0px;
+opacity: 0px;
+font-family: Yantramanav;
+font-size: 18px;
+font-weight: 500;
+line-height: 27px;
+text-align: center;
+color: rgba(73, 89, 109, 1);
+
+}
+.info-para{
+width: 129.8px;
+height: 33px;
+gap: 0px;
+opacity: 0px;
+font-family: Yantramanav;
+font-size: 22px;
+font-weight: 700;
+line-height: 33px;
+text-align: center;
+background-image: linear-gradient(303.04deg, #4776E6 10%, #8E54E9 100%);
+background-clip: text;
+color: transparent;
+}
+
+.head-h2{
+width: 328.33px;
+height: 34px;
+gap: 0px;
+opacity: 0px;
+font-family: Yantramanav;
+font-size: 24px;
+font-weight: 900;
+line-height: 34px;
+letter-spacing: 0.5px;
+text-align: left;
+color: rgba(73, 89, 109, 1);
+position: absolute;
+}
+
+.hr-line{
+    height: 4px;
+}
+
+.link-head{
+width: 206px;
+height: 34px;
+top: 582px;
+left: 27px;
+gap: 0px;
+opacity: 0px;
+color: rgba(73, 89, 109, 1);
+font-family: Yantramanav;
+font-size: 24px;
+font-weight: 900;
+line-height: 34px;
+letter-spacing: 0.5px;
+text-align: left;
+}
+
+.input-link-con{
+width: 654px;
+height: 45px;
+top: 631px;
+left: 19px;
+padding: 12px 121px 12px 31px;
+gap: 0px;
+border-radius: 50px;
+border: 1px;
+opacity: 0px;
+background: rgba(255, 255, 255, 1);
+border: 1px solid rgba(136, 136, 136, 1)    
+}
+.inner-input-con{
+width: 502px;
+height: 21px;
+top: 12px;
+left: 31px;
+padding: 0px 194.04px 0px 0px;
+gap: 0px;
+opacity: 0px;
+border: none;
+}
+.input-link{
+width: 307.96px;
+height: 21px;
+gap: 0px;
+opacity: 0px;
+font-family: Yantramanav;
+font-size: 16px;
+font-weight: 400;
+line-height: 20.75px;
+text-align: left;
+color: rgba(117, 117, 117, 1);
+border: none;
+}
+
+.search-btn-con{
+width: 101px;
+height: 45px;
+top: 595px;
+left: 686px;
+gap: 0px;
+border-radius: 50px;
+opacity: 0px;   
+position: absolute; 
+background: linear-gradient(323.76deg, #4776E6 10%, #8E54E9 100%);
+
+}
+
+.copy-icon{
+width: 14.36px;
+height: 16px;
+top: 12.5px;
+left: 23px;
+gap: 0px;
+opacity: 0px;
+font-size: 16px;
+font-weight: 900;
+line-height: 16px;
+background-color: transparent;
+text-align: center;
+position: relative;
+}
+.search-btn-2{
+width: 33.13px;
+height: 24px;
+top: 10.5px;
+left: 46.07px;
+gap: 0px;
+opacity: 0px;
+font-family: Yantramanav;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: center;
+color: rgba(255, 255, 255, 1);
+background-color: transparent;
+position: absolute;
+}
+.input-link-con-3{
+    width: 200px;
+height: 45px;
+top: 631px;
+left: 844px;
+padding: 12px 84px 12px 25px;
+gap: 0px;
+border-radius: 50px ;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+background: rgba(255, 255, 255, 1);
+border: 1px solid rgba(136, 136, 136, 1)
+}
+
+.input-link-con-3 .inner-input-con{
+    width: 91px;
+height: 21px;
+top: 12px;
+left: 25px;
+gap: 0px;
+opacity: 0px;
+
+}
+.input-link-con-3 .inner-input-con .input-link{
+    font-family: Yantramanav;
+font-size: 16px;
+font-weight: 400;
+line-height: 20.75px;
+text-align: left;
+width: 91px;
+height: 21px;
+gap: 0px;
+opacity: 0px;
+color: rgba(117, 117, 117, 1);
+
+}
+
+.search-btn-con-2{
+    width: 101px;
+height: 45px;
+top: 591px;
+left: 1110px;
+gap: 0px;
+border-radius: 50px ;
+opacity: 0px;
+background: linear-gradient(323.76deg, #4776E6 10%, #8E54E9 100%);
+position: absolute;
+}
+
+.table{
+
+    width: 829px;
+height: 623px;
+top: 902px;
+left: 127px;
+gap: 0px;
+opacity: 0px;
+position: relative;
+background-color: #4776E6;
+}
